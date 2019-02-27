@@ -8,7 +8,7 @@
 
 # How Code Work
 
-1. # Load Packages and get the Data
+1. Load Packages and get the Data
 2. Download Data and put data to working dir
 3. Load activity labels + features
 4. Load train datasets
